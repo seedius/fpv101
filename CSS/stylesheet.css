@@ -1,0 +1,113 @@
+#wholepage {
+  font-family: Verdana, sans-serif;
+}
+
+header h1 a {
+  font-weight: bold;
+  color: black;
+  text-transform: capitalize;
+  padding-left: 40px;
+  text-decoration: none;
+  font-size: 36px;
+}
+header h4 {
+  color: black;
+  padding-left: 40px;
+  margin-top: -10px
+}
+header {
+  background: orange url("../images/header_alt_graphic4.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-position: center right;
+  font-family: Verdana, sans-serif;
+}
+nav {
+  background-color: black;
+  border-top: 2px solid orange;
+}
+nav li {
+  font-family: Verdana, sans-serif;
+  display: inline;
+  list-style: none;
+  padding-right: 20px;
+
+}
+nav li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+aside {
+  background-color: orange;
+  height: auto;
+}
+aside h3 {
+  margin-left: 20px;
+}
+aside li {
+  list-style: none;
+  text-align: center;
+  margin: 10px 10px 5px -30px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  font-weight: bold;
+  background-color: #BECFD6;
+  font-size: 12px;
+}
+aside li a {
+  text-decoration: none;
+  color: black;
+}
+footer {
+  background: #b9c1ce;
+  border-top: 2px solid black;
+}
+footer p {
+  padding-left: 20px;
+  font-size: 10px;
+}
+article {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 20px 20px 20px 0;
+  padding: 0px 20px 20px 20px;
+}
+article h1, h2, h3 {
+  text-decoration: underline;
+}
+article p {
+  font-size: 14px
+}
+#naze32 {
+  float: left;
+  height: 150px;
+  width: 170px;
+}
+#tmotor, #dys, #taranis {
+  float: left;
+  height: 150px;
+  width: 150px;
+  margin-right: 20px;
+}
+#qav210 {
+  float: left;
+  height 150px;
+  width: 150px;
+  margin: 0px 20px 20px 0px;
+}
+#mrsteele, #ledrib, #charpu {
+  float: left;
+  height: 100px;
+  width: 100px;
+  margin: 20px 20px 0px 0px;
+}
+#freestyle p {
+  font-size: 14px;
+  margin-right: 20px;
+}
+#freestyle h1 {
+  text-decoration: underline;
+}
